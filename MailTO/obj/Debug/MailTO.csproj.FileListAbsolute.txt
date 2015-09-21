@@ -1,0 +1,6 @@
+D:\Programming\C#\MailTO\MailTO\bin\Debug\MailTO.exe.config
+D:\Programming\C#\MailTO\MailTO\bin\Debug\MailTO.exe
+D:\Programming\C#\MailTO\MailTO\bin\Debug\MailTO.pdb
+D:\Programming\C#\MailTO\MailTO\obj\Debug\MailTO.csprojResolveAssemblyReference.cache
+D:\Programming\C#\MailTO\MailTO\obj\Debug\MailTO.exe
+D:\Programming\C#\MailTO\MailTO\obj\Debug\MailTO.pdb
